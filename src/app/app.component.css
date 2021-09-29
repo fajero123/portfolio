@@ -1,0 +1,44 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: pink;
+}
+
+.nav-area{
+	background: rgba(67,23,78,9.35);
+	height: 50px;
+	width: 100%;
+}
+
+.sitename{
+	margin: 5px 137px;
+	height: 60px;
+	color: #fff;
+	font-size: 40px;
+	text-transform: uppercase;
+	float: left;
+}
+
+.profile{
+	background-color: rgb(139,25,300,250);
+	height: 400px;
+	width: 80%;
+	margin-left: 140px;
+	margin-top: 30px
+}
+.aboutme{
+	font-size: 15px;
+	margin-left: 25%;
+}
+
+
+.text1{
+	float: right;
+	font-size: 30px;
+	font-family: cursive;
+	margin-top: 50px;
+	margin-right: 150px
+}
